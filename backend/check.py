@@ -2,7 +2,7 @@ from google import genai
 import os
 
 # 여기에 승현님의 API 키를 넣으세요
-client = genai.Client(api_key="AIzaSyAHTax8E7r__yxebf5UNR17DiKVeeGuPZM")
+client = genai.Client(api_key="")
 
 print("--- 사용 가능한 모델 목록 ---")
 try:
