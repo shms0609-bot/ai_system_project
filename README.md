@@ -28,7 +28,7 @@
 ### 1. 저장소 복제 (Clone)
 터미널을 열고 아래 명령어를 입력하여 코드를 가져옵니다.
 ```bash
-git clone [https://github.com/shms0609-bot/ai_system_project](https://github.com/shms0609-bot/ai_system_project)
+git clone https://github.com/shms0609-bot/ai_system_project
 cd ai_system_project
 
 2. 백엔드 설정 (Backend Setup)
